@@ -118,4 +118,5 @@ Feel free to contribute to this project by:
 This project is private and proprietary.
 
 ## 👨‍💻 Developer
-Made with 💗 by Prakash
+Made with 💗 by Prakash & Rajvi
+
